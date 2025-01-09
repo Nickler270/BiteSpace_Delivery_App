@@ -9,7 +9,7 @@ BiteSpace is a user-friendly food delivery platform that connects hungry custome
 - Order tracking and history
 
 ## Portfolio
-Check out my portfolio to see more projects like this one:  
+Check out my portfolio:  
 👉 [My Portfolio](https://webgav.com)
 
 ## Technologies
