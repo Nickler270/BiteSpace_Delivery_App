@@ -19,4 +19,4 @@ Check out my portfolio:
 - **Hosting:** GitHub Pages for documentation, Elastic Beanstalk for backend
 
 ## Contributing
-We welcome contributions! Please fork the repository and submit a pull request with your improvements.
+fork the repository and submit a pull request with your improvements.
